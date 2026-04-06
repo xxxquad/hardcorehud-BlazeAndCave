@@ -1,33 +1,33 @@
 # 🔥 Hardcore HUD | BlazeAndCave
 
-## 💰 Купить тут: [https://boosty.to/xxxquad]
+## 💰 Buy here: [https://boosty.to/xxxquad]
 
-**Цена: 700₽**
+**Price: 700₽**
 
-**Вся основная информация на Boosty**
+**All main information on Boosty**
 
 ---
 
-## 📦 Требования
+## 📦 Requirements
 
 - Minecraft **1.21.11**
 - Fabric Loader **0.18.4+**
-- Fabric API **0.141.x** для 1.21.11
-- Датапак **BlazeAndCave**: [скачать](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
+- Fabric API **0.141.x** for 1.21.11
+- **BlazeAndCave** datapack: [download](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 
 ---
 
-## ⚠️ Важно
+## ⚠️ Important
 
-- Только **одиночный мир**
-- Нужно прописать команду: `/scoreboard objectives setdisplay list bac_advancements`
-- Статистика обновляется при сохранении мира (ESC)
-- Называйте миры **уникально**, иначе ошибка
+- **Singleplayer only**
+- Run this command once: `/scoreboard objectives setdisplay list bac_advancements`
+- Stats update when the world saves (press ESC)
+- Name your worlds **uniquely**, otherwise errors may occur
 
 ---
 
-## 📊 Особенности
+## 📊 Features
 
-- 3 страницы статистики
-- Автосмена страниц (10 сек)
-- Анимированный логотип (зелёный → красный)
+- 3 statistic pages
+- Auto page switching (10 sec)
+- Animated logo (green → red)
