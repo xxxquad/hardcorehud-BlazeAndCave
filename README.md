@@ -1,6 +1,6 @@
 # 🔥 Hardcore HUD | BlazeAndCave
 
-## 💰 Buy here: [https://boosty.to/xxxquad]
+## 💰 Buy here: [https://boosty.to/xxxquad or https://playerok.com/products/cd1cf1384354-hardcore-hud-blazeandcave----progress-taymer-i-statistika]
 
 **Price: 700₽**
 
